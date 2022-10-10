@@ -1,0 +1,82 @@
+.top-container
+{
+   text-align: center;
+   background-color: #ECCCB2;
+   width: 100%;
+    height: 500px;
+  
+}
+
+#footer
+{
+    background-color: #ECCCB2;
+    text-align: center;
+    padding: 20% 20% 20% 20%;
+    font-family : 'Montserrat', sans-serif;
+}
+
+body{
+    
+    margin: 0%;
+    text-align: center;
+    position:relative;
+    background-color: #ECCCB2;
+    
+   
+}
+
+.tahura-img{
+    position: absolute;
+    right: 100px;
+    width: 31%;
+  
+}
+.navbar-expand-lg {
+    color: #000000;
+    background-color: #ECCCB2;
+    font-family : 'DM Serif Display', serif;
+}
+.navbar-brand{
+    padding-left: 7%;
+}
+
+h1
+{
+    font-family: 'Italiana', serif;
+    font-weight: 1;
+    color:  #000000;
+    padding-top: 2%;
+    font-size: 5rem !important;
+}
+
+p{
+    font-size: 1.2rem;
+    color: black;
+    font-weight: normal;
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+h2
+{
+    font-size: 1.5rem !important;
+    color: black;
+    font-weight: normal;
+    font-family: 'DM Serif Display', serif;
+    line-height: 0%;
+    
+}
+.text{
+    padding-top: 5%;
+    padding-left: 15%;
+    text-align: left;
+}
+
+.download-btn{
+margin: 5% 3% 5% 0%;
+font-family:'Montserrat', sans-serif;
+font-size: 1rem;
+}
+.social-icon{
+    margin: 32px 17px;
+}
